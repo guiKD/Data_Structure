@@ -1,6 +1,0 @@
-1. Implemente o método top() da operação TOP (apenas retorna o valor que está no topo da pilha sem remover).
-2. Elabore um método que esvazie toda a pilha, apresentando cada valor retirado na tela de saída, deixando-a vazia.
-3. Construa um programa principal que converta um número representado em decimal em binário. Use as funções já implementadas de pilha de inteiros.
-4. Escreva um programa que use a pilha de inteiros positivos para verificar se a sequência digitada é um palíndromo.  
-O programa deve inserir valor inteiro na pilha enquanto não for digitado um valor negativo.
-   Exemplos de palíndromos: 1221, 02022020, 1001, etc.
